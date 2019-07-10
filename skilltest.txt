@@ -7,4 +7,9 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 new a commit
+<<<<<<< HEAD
 dev at one
+=======
+new dev
+>>>>>>> 43c75166e138a88201ab33934bab473e85cde89d
+new at one dev
